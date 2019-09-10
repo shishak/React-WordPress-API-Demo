@@ -6,6 +6,6 @@ export const config = {
     siteUrl: `https://lviv.netlify.com/`
   },
   options: {
-    wordPressUrl: "https://texty.xyz/wp-json/wp/v2/posts"
+    wordPressUrl: "http://18.204.169.216/wp-json/wp/v2/posts"
   }
 };
